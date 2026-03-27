@@ -4,7 +4,7 @@ export default hopeTheme({
   hostname: "https://your-domain.com",
 
   author: {
-    name: "Your Name",
+    name: "xuhanchi",
     url: "https://your-domain.com",
   },
 
