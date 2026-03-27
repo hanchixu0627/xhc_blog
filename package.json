@@ -1,0 +1,19 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "My personal blog powered by VuePress",
+  "private": true,
+  "scripts": {
+    "docs:dev": "vuepress dev src",
+    "docs:build": "vuepress build src",
+    "docs:clean-dev": "vuepress dev src --clean-cache"
+  },
+  "dependencies": {
+    "vuepress": "2.0.0-rc.20",
+    "vuepress-theme-hope": "2.0.0-rc.68"
+  },
+  "devDependencies": {
+    "@vuepress/bundler-vite": "2.0.0-rc.20",
+    "sass-embedded": "^1.83.4"
+  }
+}

@@ -1,0 +1,6 @@
+# 博客 Git 忽略配置
+node_modules/
+src/.vuepress/.cache/
+src/.vuepress/.temp/
+src/.vuepress/dist/
+.claude/
