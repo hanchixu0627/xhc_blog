@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://your-domain.com/xhc_blog/sitemap.xml
