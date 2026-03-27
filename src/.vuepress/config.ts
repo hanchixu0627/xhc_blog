@@ -4,7 +4,7 @@ import theme from "./theme.js";
 
 export default defineUserConfig({
   bundler: viteBundler(),
-  base: "/",
+  base: "/xhc_blog/",
   lang: "zh-CN",
   title: "我的博客",
   description: "记录生活与技术的点滴",
